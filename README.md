@@ -18,3 +18,4 @@ Documents
 To install this mod, just place in the directory structure as shown above and restart 
 Sauce For Zwift.    You will now see new data type available when you add data to a window.
 
+![Opps - You should See an image](https://github.com/pwfulghum/KickrBikeGearsS4ZMod/blob/main/NewDataCategory.jpg?raw=true)
