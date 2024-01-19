@@ -1,0 +1,15 @@
+{
+    "manifest_version": 1,
+    "name": "Kickr Bike Gears",
+    "description": "Make Kickr Bike Gears data available.",
+    "author": "Pat Fulghum",
+    "website_url": "https://www.sauce.llc",
+    "version": "1.0.0",
+    "content_js": [
+        "contents/add_a_data_field.js"
+    ],
+    "content_css": [
+    ],
+    "web_root": "pages",
+    "windows": []
+}
