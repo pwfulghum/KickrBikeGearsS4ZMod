@@ -3,6 +3,12 @@ KickBikeGearsS4ZMod
 An implementation of a mod for Sauce for Zwift that will provide Wahoo Kickr Bike Gear information 
 to Sauce for Zwift.
 
+At this time (Jan 19, 2024), you must be running version 1.0.11-alpha (or later) version of Sauce for Zwift 
+for this mod to work.
+
+You will also need THIS for the actual data to be injected into Sauce 4 Zwift.
+This mod simply lets you see the data once it is there.
+
 Basics
 --------
 A Sauce for Zwift "Mod" is a directory placed in `~/Documents/SauceMods`.  NOTE: "Documents"
