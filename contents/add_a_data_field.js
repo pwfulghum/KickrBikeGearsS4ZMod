@@ -15,9 +15,9 @@ if (electron.context.type === 'watching') {
             fields: [{
                 id: 'bike-gear',
                 longName: 'Virtual Gear',
-                value: x => x.gears.front + "-" + x.gears.rear,
+                value: x => x.gears.chainring + "-" + x.gears.cassette,
                 key: 'Gear',
-                label: 'front - rear',
+                label: 'gear',
             }],
         };
     });
