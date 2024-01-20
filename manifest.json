@@ -4,7 +4,7 @@
     "description": "Make Kickr Bike Gears data available.",
     "author": "Pat Fulghum",
     "website_url": "https://www.sauce.llc",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "content_js": [
         "contents/add_a_data_field.js"
     ],
