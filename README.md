@@ -6,7 +6,9 @@ to Sauce for Zwift.
 At this time (Jan 19, 2024), you must be running version 1.0.11-alpha (or later) version of [sauce4zwift](https://www.sauce.llc/products/sauce4zwift/)
 for this mod to work.
 
-You will also need THIS for the actual data to be injected into [sauce4zwift](https://www.sauce.llc/products/sauce4zwift/).
+You will also need [KickrBikeInterceptor](https://github.com/pwfulghum/KickrBikeInterceptor-Releases) for the actual data to be injected into [sauce4zwift](https://www.sauce.llc/products/sauce4zwift/).
+You can have programming/building your own Lilygo ESP32 IOT device as discussed on [zwiftforrum](https://forums.zwift.com/t/wahoo-kickr-bike-external-gear-display/597907) or just use the PC based software solution.
+
 This mod simply lets you access the data once it is there.
 
 ## This mod will act on this injected data (into the "self" athelete)
@@ -14,8 +16,7 @@ This mod simply lets you access the data once it is there.
 ["self", { "gears" : {"chainring": "<frontgear>", "cassette": "<reargear>" }}]
 ```
 
-NOTE: If you are using https://github.com/gazhay/kickrbike_display (or similar) running on an ESP32 dongle to get your gear data
-into sauce, you will have to change either the sketch or contents/add_a_data_field.js to match.
+NOTE: If you are using https://github.com/gazhay/kickrbike_display (or similar) running on an ESP32 dongle as mentioned on [zwift forums](https://forums.zwift.com/t/wahoo-kickr-bike-external-gear-display/597907) to get your gear data into sauce, you will have to change either the sketch or contents/add_a_data_field.js to match.
 
 ## Basics
 
